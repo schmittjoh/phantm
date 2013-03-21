@@ -1,10 +1,6 @@
 classes
 benchs
 builds
-src/main/java/phantm/parser/CUPParser.java
-src/main/java/phantm/parser/Lexer.java
-src/main/java/phantm/parser/Symbols.java
-src/main/java/phantm/parser/*.bin
 */*/*/*.sw?
 */*/*.sw?
 */*.sw?
